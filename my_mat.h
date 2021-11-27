@@ -5,6 +5,3 @@ int func2(int mat[10][10]);
 int func3(int mat[10][10]);
 
 #endif
-
-
-
