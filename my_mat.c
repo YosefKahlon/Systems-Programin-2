@@ -116,5 +116,3 @@ int func3(int mat[10][10])
     }
     return dist[len][row];
 }
-
-  

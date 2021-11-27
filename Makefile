@@ -30,4 +30,4 @@ main.o: main.c my_mat.h
 .PHONY: clean all
 
 clean:
-		rm -f *.o *.a connections   
+		rm -f *.o *.a connections
